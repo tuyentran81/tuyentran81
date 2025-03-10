@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tuyen Tran, Vietnam
 - 👀 I’m interested in both manual and automation tests.
-- 🌱 I’m currently learning JavaScript, Cypress.
+- 🌱 I’m currently developing sample project in Playwright and TypeScript.
+- 🌱 My experience in software testing with more than 15 years of experiences.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: tuyenonline@gmail.com
 
